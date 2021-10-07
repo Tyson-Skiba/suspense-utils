@@ -1,5 +1,7 @@
 # Suspense Utils
 
+[![Demo app](https://img.shields.io/badge/demo-app-ff69b4)](https://tyson-skiba.github.io/suspense-utils/) [![Bundle size](https://badgen.net/bundlephobia/min/suspense-utils)](suspense-utils) [![Support](https://img.shields.io/badge/react-%3E%3D16.3-brightgreen)](https://img.shields.io/badge/react-%3E%3D16.6-brightgreen) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
 A small library with utils that make working suspense easy as well as an error boundary that can be used so that components can have error, loading and data states.
 
 ## Install
