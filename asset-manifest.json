@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.528636c8.chunk.js",
-    "main.js.map": "/static/js/main.528636c8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c813bfa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c813bfa.js.map",
-    "static/js/2.8f802331.chunk.js": "/static/js/2.8f802331.chunk.js",
-    "static/js/2.8f802331.chunk.js.map": "/static/js/2.8f802331.chunk.js.map",
-    "static/js/3.c5567c5e.chunk.js": "/static/js/3.c5567c5e.chunk.js",
-    "static/js/3.c5567c5e.chunk.js.map": "/static/js/3.c5567c5e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8f802331.chunk.js.LICENSE.txt": "/static/js/2.8f802331.chunk.js.LICENSE.txt"
+    "main.css": "/suspense-utils/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/suspense-utils/static/js/main.528636c8.chunk.js",
+    "main.js.map": "/suspense-utils/static/js/main.528636c8.chunk.js.map",
+    "runtime-main.js": "/suspense-utils/static/js/runtime-main.de70a6e8.js",
+    "runtime-main.js.map": "/suspense-utils/static/js/runtime-main.de70a6e8.js.map",
+    "static/js/2.835f578a.chunk.js": "/suspense-utils/static/js/2.835f578a.chunk.js",
+    "static/js/2.835f578a.chunk.js.map": "/suspense-utils/static/js/2.835f578a.chunk.js.map",
+    "static/js/3.c5567c5e.chunk.js": "/suspense-utils/static/js/3.c5567c5e.chunk.js",
+    "static/js/3.c5567c5e.chunk.js.map": "/suspense-utils/static/js/3.c5567c5e.chunk.js.map",
+    "index.html": "/suspense-utils/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/suspense-utils/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.835f578a.chunk.js.LICENSE.txt": "/suspense-utils/static/js/2.835f578a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c813bfa.js",
-    "static/js/2.8f802331.chunk.js",
+    "static/js/runtime-main.de70a6e8.js",
+    "static/js/2.835f578a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.528636c8.chunk.js"
   ]
