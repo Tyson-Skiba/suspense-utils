@@ -28,12 +28,12 @@ jobs:
 
       - name: Deploy
         run: |
-          yarn link:demo
-          cd demo
-          yarn
           git config --global user.name github-actions-bot
           git config --global user.email github-actions-bot@users.noreply.github.com
           git remote set-url origin https://${github_token}@github.com/${repository}
+          yarn link:demo
+          cd demo
+          yarn
           npm run deploy
         env:
           user_name: 'github-actions[bot]'
