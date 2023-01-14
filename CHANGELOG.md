@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.1...v1.0.2) (2023-01-14)
+
+
+### Bug Fixes
+
+* Use node 18 fore release job ([79954cf](https://github.com/Tyson-Skiba/suspense-utils/commit/79954cf10be9629fd41ae9115658cddafdbb6953))
+
 ## [1.0.1](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.0...v1.0.1) (2021-10-07)
 
 
