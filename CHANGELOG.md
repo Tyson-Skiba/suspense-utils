@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.2...v1.0.3) (2023-01-14)
+
+
+### Bug Fixes
+
+* Set gl credentials earlier in job ([bedcd21](https://github.com/Tyson-Skiba/suspense-utils/commit/bedcd213625b9c9c38de0a6c9e3211b2632782b9))
+
 ## [1.0.2](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.1...v1.0.2) (2023-01-14)
 
 
