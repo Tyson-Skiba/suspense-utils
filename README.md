@@ -168,3 +168,23 @@ export const MyComponent: React.FC = () => (
     </ErrorBoundary>
 )
 ```
+
+### useCallback
+
+This hook matches the api of reacts `useCallback` however unlike react it pipes errors to the error boundary.  
+Only use this if your application does not handle the possible error state of things like event handlers, data fetching etc..
+
+__This requires React 16.6+__
+
+
+```typescript
+import { useCallack } from 'suspense-utils';
+
+export const Component: React.FC = () => {
+    const onClick = useCallack(() => {
+        throw new Error('Event handler error');
+    }, []);
+
+    return <button onClick={onClick}>Click me </button>
+}
+```
