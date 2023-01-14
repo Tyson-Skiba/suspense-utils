@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/suspense-utils/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/suspense-utils/static/js/main.528636c8.chunk.js",
-    "main.js.map": "/suspense-utils/static/js/main.528636c8.chunk.js.map",
+    "main.js": "/suspense-utils/static/js/main.eceee250.chunk.js",
+    "main.js.map": "/suspense-utils/static/js/main.eceee250.chunk.js.map",
     "runtime-main.js": "/suspense-utils/static/js/runtime-main.de70a6e8.js",
     "runtime-main.js.map": "/suspense-utils/static/js/runtime-main.de70a6e8.js.map",
     "static/js/2.835f578a.chunk.js": "/suspense-utils/static/js/2.835f578a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.de70a6e8.js",
     "static/js/2.835f578a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.528636c8.chunk.js"
+    "static/js/main.eceee250.chunk.js"
   ]
 }
