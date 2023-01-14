@@ -47,7 +47,7 @@ export class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoun
       };
     }
 
-    private retry() {
+    private retry = () => {
         this.setState(state => ({
             hasError: false,
             count: state.count + 1,
