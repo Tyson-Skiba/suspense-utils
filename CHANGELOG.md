@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.3...v1.0.4) (2023-01-14)
+
+
+### Bug Fixes
+
+* Bump release version using sematic release commit format ([5a26b43](https://github.com/Tyson-Skiba/suspense-utils/commit/5a26b437d5fd70ad2ae59abe5cac482d5bdd4e99))
+
 ## [1.0.3](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.2...v1.0.3) (2023-01-14)
 
 
