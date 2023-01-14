@@ -7,7 +7,7 @@
   "sideEffects": false,
   "scripts": {
     "compile": "rimraf dist && tsc && tsc --build tsconfig.es5.json",
-    "release": "yarn compile && npx semantic-release",
+    "release": "yarn compile && npx semantic-release@18.0.1",
     "link:demo": "yarn link && cd ./demo && yarn link suspense-utils",
     "unlink:demo": "yarn unlink"
   },
