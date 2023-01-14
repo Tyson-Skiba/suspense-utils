@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.4...v1.1.0) (2023-01-14)
+
+
+### Bug Fixes
+
+* Genrics in useCallback ([ba98424](https://github.com/Tyson-Skiba/suspense-utils/commit/ba98424fc4f343d2e438640ef1976ef07497b1dc))
+
+
+### Features
+
+* Helper to catch errors in event handlers ([3614138](https://github.com/Tyson-Skiba/suspense-utils/commit/36141384296065a340a1c9d08e32daaec0f56d36))
+
 ## [1.0.4](https://github.com/Tyson-Skiba/suspense-utils/compare/v1.0.3...v1.0.4) (2023-01-14)
 
 
